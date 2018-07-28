@@ -1,0 +1,10 @@
+2018-07-28 20:47:50,751 20 INFO 用户[downtiser]成功上传文件[linux_ifconfig.jpg]
+2018-07-28 20:47:50,753 20 INFO 成功上传文件[linux_ifconfig.jpg] 剩余存储空间[30]MB
+2018-07-28 20:49:26,266 40 ERROR USER:Unknown ERROR ID 404:文件不存在
+2018-07-28 20:49:58,854 20 INFO 用户[noob]成功上传文件[linux_ifconfig.jpg]
+2018-07-28 20:49:58,855 20 INFO 成功上传文件[linux_ifconfig.jpg] 剩余存储空间[199]MB
+2018-07-28 20:50:02,248 50 CRITICAL CRITICAL: 客户端强制断开!
+2018-07-28 20:50:04,284 50 CRITICAL CRITICAL: 客户端强制断开!
+2018-07-28 20:59:33,489 20 INFO 用户[noob]成功上传文件[linux_ifconfig.jpg]
+2018-07-28 20:59:33,489 20 INFO 成功上传文件[linux_ifconfig.jpg] 剩余存储空间[199]MB
+2018-07-28 21:00:17,677 50 CRITICAL CRITICAL: 客户端强制断开!
